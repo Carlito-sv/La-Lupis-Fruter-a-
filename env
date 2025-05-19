@@ -1,0 +1,3 @@
+# Backend .env
+MONGO_URI=mongodb+srv://<usuario>:<password>@<cluster>.mongodb.net/la-lupis?retryWrites=true&w=majority
+PORT=5000
